@@ -9,11 +9,12 @@ There are 64 codons, but only 21 amino acids. When developing sequences, researc
 
 Model Organism: Chinese Hampster
 
-Currently still a work in progress (training and decoding is incomplete).
+Currently still a work in progress; project is NON-FUNCTIONAL
 
 TODO:
 * Training and Packaging Model
 * Decoding output sequence
+* Debugging Minor Issues.
 
 Future:
 * Migration to MAMBA State Space Models
